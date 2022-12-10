@@ -24,7 +24,7 @@
     "body-parser": "^1.18.3",
     "chrome-launcher": "^0.10.5",
     "early-hints": "^0.1.0",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-formidable": "^1.2.0",
     "lighthouse": "^4.3.0",
     "lighthouse-batch": "^3.1.1",
